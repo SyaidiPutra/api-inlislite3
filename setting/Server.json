@@ -1,0 +1,5 @@
+{
+    "run"           : true,
+    "public"        : true,
+    "member_new"    : false
+}
